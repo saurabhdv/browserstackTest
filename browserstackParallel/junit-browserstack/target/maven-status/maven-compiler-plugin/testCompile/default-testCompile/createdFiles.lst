@@ -1,0 +1,5 @@
+com\browserstack\Parallelized$ThreadPoolScheduler.class
+com\browserstack\SingleTest.class
+com\browserstack\BrowserStackJUnitTest.class
+com\browserstack\Task_2_TestBrowserStack.class
+com\browserstack\Parallelized.class

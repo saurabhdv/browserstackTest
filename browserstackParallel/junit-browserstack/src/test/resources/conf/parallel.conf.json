@@ -1,0 +1,30 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "saurabhverma20",
+  "key": "V1A8g35e7prDfXKVQeEA",
+
+  "capabilities": {
+    "build": "junit-browserstack",
+    "name": "parallel_test",
+    "browserstack.debug": true
+  },
+
+  "environments": [
+    {
+      "browser": "chrome"
+    },
+    {
+      "browser": "firefox"
+    },
+    {
+      "browser": "safari",
+      "os": "OS X"
+    },
+    {
+      "browser": "Internet Explorer"
+    },
+    {
+      "browser": "Edge"
+    }
+  ]
+}
