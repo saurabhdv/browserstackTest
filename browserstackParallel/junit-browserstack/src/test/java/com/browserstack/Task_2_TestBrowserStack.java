@@ -22,8 +22,8 @@ public class Task_2_TestBrowserStack extends BrowserStackJUnitTest {
     WebDriverWait wait;*/
     String searchString = "Samsung Galaxy S10";
     String FlipKartURL = "https://www.flipkart.com";
-/*    public static final String USERNAME = "saurabhverma20";
-    public static final String AUTOMATE_KEY = "V1A8g35e7prDfXKVQeEA";
+/*    public static final String USERNAME = "xxxx";
+    public static final String AUTOMATE_KEY = "xxxx";
     public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";*/
 
     @Before
