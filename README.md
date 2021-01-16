@@ -1,11 +1,11 @@
-# browserstack Test
-#BrowserStack Automate
+#browserstack_Test
+#BrowserStack_Automate
 
 www.browserstack.com
 
 
-# BrowserStackParallel
-#Assigment
+#BrowserStackParallel
+#Assigment #QA_assigment
 
 
 This framework which run has test for Flipkart search runs parallel test on browserstack.
